@@ -8,7 +8,7 @@ A simple web project inspired by the abstract paintings of Piet Mondrian, built 
 
 ## 📸 Preview
 
-screenshot.png
+![Mondrian Screenshot](screenshot.png)
 
 ## 🛠️ Technologies Used
 
